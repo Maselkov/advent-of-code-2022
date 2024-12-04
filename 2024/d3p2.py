@@ -12,3 +12,4 @@ for match in matches:
         total += a * b
 
 print(total)
+
